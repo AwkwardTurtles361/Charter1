@@ -2,7 +2,7 @@
 
 
 1. Availability for meeting expectations
-  Meeting during lab, show up prepared with something to share. Arrive on time and let the group know if you are running late. Currently meeting only during lab session unless another meeting is needed. 
+  Meeting during lab, show up prepared with something to share. Arrive on time and let the group know if you are running late. Currently meeting only during lab session unless another meeting is needed. Virtual meetings as needed, same rules apply please be present and engaged and if you are going to be late give the team a heads up. 
 
 2. Response time to communication expectations
   Teams messages, Acknowledge the message within a couple hours, and create a meaningful response within 12 hours.
@@ -11,10 +11,13 @@
   Something is done when its commited and a pull request is ready for review. Should be able to point to a user story to show that this item is completed. 
  
 4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
-  Have rotating roles
+  Sofia will act as administrator for the group, scheduling extra meetings and communicating meeting notes. 
 
 5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
-6. if you adopt such a policy during the initial meeting, put it here
+if you adopt such a policy during the initial meeting, put it here
+   Readable comments that make it very clear what the code is doing, (class function, method   
+   function), 351 style comments, updates in teams when code is ready for review,
+  
 7. Procedure for handling a member who is not meeting expectations
 must include at
  least 3 actions before involving the instructor
